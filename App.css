@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.app1{
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-right: 300px;
+  border: 2px solid green;
+}
+.app1 p{
+  color:red;
+}
+.app2{
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-right: 300px;
+  border: 2px solid green;
+}
+.app2 p{
+  color:red;
+}
+
+.items{
+  text-align: left;
+}
